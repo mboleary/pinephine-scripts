@@ -1,0 +1,3 @@
+#!/bin/bash
+
+phoc -E 'gnome-session --session=phosh'

@@ -1,2 +1,2 @@
-# pinephine-scripts
+# PinePhone Scripts
 Scripts for the pinephone
